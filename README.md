@@ -1,4 +1,4 @@
-# Anime Jedji
+# Anime Jedi
 
 ## Education
 Jedji Academy Graduation Date
