@@ -1,7 +1,7 @@
 # Anime Jedi
 
 ## Education
-Jedji Academy Graduation Date
+Jedi Academy Graduation Date
 
 
 ### Work Experience
